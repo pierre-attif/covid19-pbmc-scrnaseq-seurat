@@ -7,7 +7,7 @@ The dataset used in this project was obtained from the study:
 
 A single-cell atlas of the peripheral immune response in patients with severe COVID-19
 
-Published in Nature Medicine.
+Published in Nature Medicine. (https://www.nature.com/articles/s41591-020-0944-y)
 
 Samples Analyzed
 
